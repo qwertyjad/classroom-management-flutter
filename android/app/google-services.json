@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147892159714",
+    "project_id": "classroom-mngnt",
+    "storage_bucket": "classroom-mngnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147892159714:android:e9eecbe8e3dfcbb7670abb",
+        "android_client_info": {
+          "package_name": "com.example.classroom_manangement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8GttUe9PIRJ8DMqZZJblcaK50aETMLKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
